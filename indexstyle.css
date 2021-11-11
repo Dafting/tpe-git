@@ -22,3 +22,7 @@ header, footer{
     font-style: italic;
     color: darkslategray;
 }
+
+#gameList {
+    background-color: aliceblue;
+}
