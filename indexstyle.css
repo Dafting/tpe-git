@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://images7.alphacoders.com/416/416822.jpg);
+    background-size: 80rem;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin: 10px;
+    font-style: italic;
+    color: darkslategray;
+}
