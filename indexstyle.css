@@ -26,3 +26,8 @@ header, footer{
 #gameList {
     background-color: aliceblue;
 }
+
+#imgPacman {
+    width: 100px;
+    height: 100px;
+}
